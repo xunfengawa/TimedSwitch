@@ -1,0 +1,17 @@
+{
+	"id": "timed_switch",
+	"version": "1.0.0",
+	"name": "TimedSwitch",
+	"description": {
+		"en_us": "Start and stop server at certain system time.",
+		"zh_cn": "在指定的系统时间启动或停止服务器"
+	},
+	"author": [
+		"xunfeng"
+	],
+	"entrypoint": "timed_switch.entry",
+	"link": "https://github.com/xunfengawa/TimedSwitch",
+	"resources": [
+		"LICENSE"
+	]
+}
